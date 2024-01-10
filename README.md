@@ -4,8 +4,8 @@ A mobile application created to assist in job searches by offering information o
 
 # Screenshots
 
-<img src="https://github.com/zharmedia386/project_react_native_jobs/blob/main/assets/image-readme/image0.png" />
+<img src="https://github.com/zharmedia386/project_react_native_jobs/blob/main/assets/image-readme/image0.jng" />
 
-<img src="https://github.com/zharmedia386/project_react_native_jobs/blob/main/assets/image-readme/image1.png" />
+<img src="https://github.com/zharmedia386/project_react_native_jobs/blob/main/assets/image-readme/image1.jng" />
 
-<img src="https://github.com/zharmedia386/project_react_native_jobs/blob/main/assets/image-readme/image2.png" />
+<img src="https://github.com/zharmedia386/project_react_native_jobs/blob/main/assets/image-readme/image2.jng" />
